@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Strilkan/colorpalette.git/static/css/main.11ccfb33.css",
-    "main.js": "/Strilkan/colorpalette.git/static/js/main.2a7cac2d.js",
-    "static/js/453.a51fb517.chunk.js": "/Strilkan/colorpalette.git/static/js/453.a51fb517.chunk.js",
-    "static/media/logo.svg": "/Strilkan/colorpalette.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Strilkan/colorpalette.git/index.html",
-    "main.11ccfb33.css.map": "/Strilkan/colorpalette.git/static/css/main.11ccfb33.css.map",
-    "main.2a7cac2d.js.map": "/Strilkan/colorpalette.git/static/js/main.2a7cac2d.js.map",
-    "453.a51fb517.chunk.js.map": "/Strilkan/colorpalette.git/static/js/453.a51fb517.chunk.js.map"
+    "main.css": "/colorpalette/static/css/main.11ccfb33.css",
+    "main.js": "/colorpalette/static/js/main.ebd32ff5.js",
+    "static/js/453.a51fb517.chunk.js": "/colorpalette/static/js/453.a51fb517.chunk.js",
+    "static/media/logo.svg": "/colorpalette/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/colorpalette/index.html",
+    "main.11ccfb33.css.map": "/colorpalette/static/css/main.11ccfb33.css.map",
+    "main.ebd32ff5.js.map": "/colorpalette/static/js/main.ebd32ff5.js.map",
+    "453.a51fb517.chunk.js.map": "/colorpalette/static/js/453.a51fb517.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11ccfb33.css",
-    "static/js/main.2a7cac2d.js"
+    "static/js/main.ebd32ff5.js"
   ]
 }
